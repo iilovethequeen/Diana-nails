@@ -110,8 +110,8 @@ function submitAppointment() {
 
     // Send booking email to Diana
     emailjs.send(
-        "service_89loxo2",
-        "template_5rpiw09",
+        "service_jj9r8tm",
+        "template_9jienry",
         templateParams
     )
 
