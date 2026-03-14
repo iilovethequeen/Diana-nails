@@ -190,7 +190,7 @@ function showToast(msg) { const t = document.getElementById('toast'); t.textCont
 function sendConfirmationEmail(data) {
 
     emailjs.send(
-        "service_89loxo2",
+        "service_jj9r8tm",
         "template_confirm",
         data
     )
