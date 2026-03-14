@@ -162,7 +162,7 @@ function sendContact() {
 
     emailjs.send(
         "service_jj9r8tm",
-        "template_contact",
+        "template_noyfkdg",
         data
     )
 
@@ -191,7 +191,7 @@ function sendConfirmationEmail(data) {
 
     emailjs.send(
         "service_jj9r8tm",
-        "template_confirm",
+        "template_noyfkdg",
         data
     )
 
