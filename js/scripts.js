@@ -110,7 +110,7 @@ function submitAppointment() {
 
     // Send booking email to Diana
     emailjs.send(
-        "service_jj9r8tm",
+        "service_dvw2o7j",
         "template_9jienry",
         templateParams
     )
@@ -161,7 +161,7 @@ function sendContact() {
 
 
     emailjs.send(
-        "service_jj9r8tm",
+        "service_dvw2o7j",
         "template_noyfkdg",
         data
     )
@@ -190,7 +190,7 @@ function showToast(msg) { const t = document.getElementById('toast'); t.textCont
 function sendConfirmationEmail(data) {
 
     emailjs.send(
-        "service_jj9r8tm",
+        "service_dvw2o7j",
         "template_noyfkdg",
         data
     )
