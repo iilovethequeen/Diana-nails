@@ -161,7 +161,7 @@ function sendContact() {
 
 
     emailjs.send(
-        "service_89loxo2",
+        "service_jj9r8tm",
         "template_contact",
         data
     )
